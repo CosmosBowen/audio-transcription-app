@@ -26,6 +26,7 @@ This project consists of a React frontend and a FastAPI backend that work togeth
 - Python for audio processing
 
 ## Project Structure
+```
 project-root/
 ├── frontend/                # React application
 │   ├── src/
@@ -46,7 +47,7 @@ project-root/
 │   └── services/
 │       └── transcription.py  # Audio transcription service
 └── requirements.txt     # Python dependencies
-
+```
 
 ## How to Run the Project
 
