@@ -1,0 +1,7 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart
+openai-whisper  # Or other AI transcription library like 'openai'
+torch
+pydantic
+python-dotenv
